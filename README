@@ -1,0 +1,6 @@
+echo "# weebhook" >> README
+git init
+git add README.md
+git commit -m "Que onda lala"
+git remote add origin https://github.com/Breaker12/weebhook.git
+git push -u origin master
